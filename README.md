@@ -9,17 +9,16 @@ Este es un proyecto web interactivo para organizar un juego de "Amigo Secreto". 
 - **Sorteo aleatorio:** Una vez ingresados los nombres, se puede presionar el botón "Sortear amigo" para seleccionar un participante al azar.
 
 ## Capturas de pantalla 🖼️
-
+![Alerta cuando no hay ningun amigo para sortear](assets/primera.png)
+![Agregando y sorteando el amigo secreto corractamente](assets/segunda.png)
+![Alerta cuando no se agrega un nombre](assets/tercera.png)
 
 ### 1. Validación de entrada vacía ❌
 Si el usuario intenta agregar un nombre vacío, aparece un mensaje de alerta:
 
-![Alerta de nombre inválido](file-LHFC8J82gAhSAbDRrfcpaW)
 
 ### 2. Lista de participantes y sorteo ✅
 Después de agregar nombres, la lista se muestra y se puede realizar el sorteo:
-
-![Sorteo realizado](file-P34V8rMwyQ1BopcUY5C9ze)
 
 ## Tecnologías utilizadas 🛠️
 
